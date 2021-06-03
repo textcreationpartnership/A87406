@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Joyfull nevves from Plimouth, being an exact relation of a great victory obtained against the Cornish cavaliers, by the Parliaments forces in those parts, also a wonderfull token of Gods mercy to the Parliaments forces, for during the fight, the Lord sent fire from heaven, so that the cavaliers powder in their bandaliers, flasks, and muskets tooke fire, by which meanes they hurt, and slew each other, to the wonder and amazement of the Parliaments forces. Published at the request of some persons of eminencie, which were partakers of this wonderfull mercy, and mighty deliverance. Whereunto is annexed an abstract of severall letters, sent from severall parts of the Kingdome, to good hands in the city, containing many worthy particulars.</title>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87406</idno><idno type="EEBO-CITATION">99860686</idno>
+  <idno type="VID">155903</idno>
+  <idno type="EEBO-PROQUEST">2240887900</idno>
+  
+            <idno type="STC">Wing J1141</idno>
+            <idno type="STC">Thomason E102_9</idno>
+            <idno type="STC">ESTC R1951</idno>
+            <idno type="PROQUEST">99860686</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99860686e"/>
+            <note>(EEBO-TCP ; phase 2, no. A87406)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155903)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 18:E102[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Joyfull nevves from Plimouth, being an exact relation of a great victory obtained against the Cornish cavaliers, by the Parliaments forces in those parts, also a wonderfull token of Gods mercy to the Parliaments forces, for during the fight, the Lord sent fire from heaven, so that the cavaliers powder in their bandaliers, flasks, and muskets tooke fire, by which meanes they hurt, and slew each other, to the wonder and amazement of the Parliaments forces. Published at the request of some persons of eminencie, which were partakers of this wonderfull mercy, and mighty deliverance. Whereunto is annexed an abstract of severall letters, sent from severall parts of the Kingdome, to good hands in the city, containing many worthy particulars.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Leonard Smith,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Annotation on Thomason copy: "May: 18".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Army --  Early works to 1800.</term>
+               <term type="geographic_name">Plymouth (England) --  History, Military.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155903:1"/>
+            <p>JOYFVLL NEVVES FROM PLIMOUTH, BEING An exact Relation of a great victory ob<g ref="char:EOLhyphen"/>tained against the Cornish Cavaliers, by the Parliaments Forces in those parts, also a wonderfull token of Gods mercy to the Parliaments Forces, for during the Fight, the Lord sent Fire from heaven, so that the Cavaliers Powder in their Bandaliers, Flasks, and Muskets tooke fire, by which meanes they hurt, and slew each other, to the wonder and amazement of the Parliaments Forces.</p>
+            <p>Published at the request of some persons of Eminencie, which were partakers of this wonderfull mercy, and mighty deliverance.</p>
+            <p>Whereunto is annexed an Abstract of severall let<g ref="char:EOLhyphen"/>ters, sent from severall parts of the Kingdome, to good hands in the City, containing many worthy particulars.</p>
+            <p>
+               <add>May: 18</add>
+               <hi>LONDON,</hi> Printed for <hi>Leonard Smith,</hi> 1643.</p>
+            <pb facs="tcp:155903:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:155903:2"/>
+            <head>True Information of a great Overthrow given to the Lord <hi>Hopton</hi> and his Cornish Cavaliers, &amp;c. with speciall intelligence from divers other places.</head>
+            <p>FRom <hi>Leicester</hi> they write, that M. <hi>Henry Hastings</hi> came late<g ref="char:EOLhyphen"/>ly towards their town with his forces to plunder and pil<g ref="char:EOLhyphen"/>lage, which made the townsmen stand upon their guard, and arm all their horse and foot presently, which being made ready, the L. <hi>Grey</hi> of <hi>Groby,</hi> son to the Earl of <hi>Stamford,</hi> issued out of the town with eight Troups of horse: but when the Malignants heard of his coming, they immediately marched away: but the Lord <hi>Grey</hi> pursued him 11. miles, and fell upon them, killed twenty of them, wounded and hurt many more, and took 38 of them Prisoners, the Lord <hi>Grey</hi> lost not above one man in this skirmish.</p>
+            <p>The Parliament have passed an Ordinance for the assessing of all such refusers as have not contributed to the maintenance of the Parliaments Army in all the Counties of this Kingdome, that the whole burden might not lie upon the well-affected of the City of <hi>London,</hi> with a <hi>proviso</hi> that the said Assesment ex<g ref="char:EOLhyphen"/>ceed not the twentieth part of their estates.</p>
+            <p>From <hi>Exceter</hi> and <hi>Plymouth</hi> in the County of <hi>Devon</hi> they write, that the Lord <hi>Hopton</hi> had again gotten into <hi>Tavistock</hi> in that County, and summoned the inhabitants thereabouts to bring him in men, moneys, and victuall, which they refused, up<g ref="char:EOLhyphen"/>on which he retreated back again into <hi>Cornwall,</hi> but during his abode there he sent two poor Troupes to <hi>Totnes,</hi> where there was a Faire, to surprize the Countrey-peoples horses, whereof
+<pb facs="tcp:155903:3"/> the Exeter troops having notice, made towards them, and drove them from their intended Designes empty as they came, and that the Earl of Stamford with six thousand Foot, and one thousand Dragoones, and six hundred Horse, is marching into Cornwall, totally to subdue them, if it please God to prosper his Designe.</p>
+            <p>Master <hi>Pym</hi> at a conference of both Houses of Parliament in the name of the house of Commons, desired the Lotds that Judge Mallet (who had been limited by the Lords to have his liberty upon sufficient baile) might be remanded to the Tower again, for diverse reasons and causes by him exhibited to them▪ then he read a Declaration which was framed by the Com<g ref="char:EOLhyphen"/>mons, wherein was contained at large all the proceedings in the late treaty at Oxford, between the King, and Parliaments Committee, whereunto Master Pym desired the Lords consent for the publishing thereof, which being done, the Earle of Manchester now Speaker of the House of Peers, acquainted the Commons with an Answer sent unto them from the King, a<g ref="char:EOLhyphen"/>bout the affaires of Ireland, to this effect. Whereas an Act had passed the Parliament, to give unto all adventurers that would subscribe monies for the reduceing of Ireland, a certain pro<g ref="char:EOLhyphen"/>portion of the Rebels Lands, when the warre should be ended, in which Act there was no clause or proviso to constrain the subscribers to bring in their Monies which are yet in arreare, the Parliament had desired the King to passe a Bill for that pur<g ref="char:EOLhyphen"/>pose especially, because the English Armies now in Ireland, are in great distresse for want of monies, and other necessary supplies whereunto the King answereth in briefe thus, that he will be content to passe the said Bill, provided that he may have a true accompt given him, how the monies have, or shall be imployed, that are granted by the said Act, which answer both Houses have taken time to consider of.</p>
+            <pb facs="tcp:155903:3"/>
+            <p> From <hi>Northampton</hi> they write, that a Gentleman came lately to their town with a letter, which hath proved forged, from the Parliaments Lord Generall, to require them to arm some horse and foot, and to send them to <hi>Banbury,</hi> where some of his forces should meet them, to drive the Cavaliers from thence, where<g ref="char:EOLhyphen"/>unto they giving credit, presently sent out thither 500 horse and foot, where being come, they were presently surrounded with multitudes of horse from the town, and miserably defeated, 40 of them being slain, sixty of them were taken prisoners, and they lost also one Drake, and a carriage of ammunition, and their provision, which happened to them by incautelous credulity.</p>
+            <p>Yesterday in the morning there was 15000. pound sent to <hi>Reading,</hi> which was guarded thither by Colonell <hi>Harvey</hi> and his City Troupe of Horse to prevent the seizing of it by the Malignauts, who have done many robberies upon that rode, and slain &amp; taken Captain <hi>Holbech</hi> and some others coming thence.</p>
+            <p>At a Conference of both Houses of Parliament this day a letter was read from the L. <hi>Fairfax</hi> out of <hi>Yorkshire,</hi> that on Sa<g ref="char:EOLhyphen"/>turday last he was well at <hi>Leeds,</hi> where he had strongly intren<g ref="char:EOLhyphen"/>ched and fortified himself, insomuch that he feared not the Earl of <hi>Newcastle</hi> and his whole Army, but that in regard he wanted both money and horse, he was not of strength sufficient to keep the field, and therefore he requested the Parliament speedily to furnish and supply him with both, which they have resolved to doe.</p>
+            <p>From <hi>Warwick</hi> they write, that Colonell <hi>Longsford</hi> who hath been a prisoner there ever since the battell at <hi>Keynton,</hi> com<g ref="char:EOLhyphen"/>bined with another of his fellow-prisoners to poyson Serjeant Major <hi>Bridges,</hi> Governour of the Castle, and to seize upon it, who drew another into their plot, who abhorring the fact, told them he would not condescend, because it was too base an acti<g ref="char:EOLhyphen"/>on for souldiers, and more fit for Popish Priests and Jesuites:</p>
+            <pb facs="tcp:155903:4"/>
+            <p> wherupon <hi>Lunccford</hi> and his Comrade, fearing that he would discover their plot, and finding a fit opportunity, presently laid hands on him and would have cut his throat, but their Keeper coming in rescued him out of their hands, unto whom he dis<g ref="char:EOLhyphen"/>covered their intentions, who instantly revealed it to the Go<g ref="char:EOLhyphen"/>vernour, by which meanes they were immediately laid in Irons and thrown into the Dangeon, whereas before they had the liberty of the Castle.</p>
+            <p>Out of Wiltshire they write that Sir Edward Hungerford hath been a long time in Sommersetshire, whereby there Coun<g ref="char:EOLhyphen"/>ty hath been left in a naked condition, but that of late he is re<g ref="char:EOLhyphen"/>turned with Colonell Stroud, to Mear, whether they have brought along with them seven hundred Horse and Foot, and also that they were there joyfully entertained, and had free quarter given them, and that during their abode at Mear, their souldiers seized upon master Arundels cattell, and killed almost all his Goates in Hormingsham Common, and they also got into the Parke at Long-leat, and killed some of Sir James Thines Fallow Deer, and afterward they marched to Warder Castle, which belongeth to Count Arundel, who obtained that title from the Emperour Rodolph, the second of that name, for the good service he did him in his warre against the Turks, who since his return into England was created Baron of Warder Castle, by King James, this Lord being a great Papist, had gotten men and Ordnance into his Castle, where<g ref="char:EOLhyphen"/>by he much terrified and annoyed those parts of Wiltshire, Sir Edward Hungerford and Colonell Stroud being come neare the said Castle, they summoned it, but instead of an Answer they reccived great shot from them, whereupon they planted their Ordnance, and for diverse dayes plaid against it, it now being credibly reported that the said Castle is taken by Sir Edward Hungerford▪</p>
+            <pb facs="tcp:155903:4"/>
+            <p> Out of <hi>Nottinghamshire</hi> they write, that the Earl of <hi>Newca<g ref="char:EOLhyphen"/>stles</hi> souldiers have committed inhumane outrages in that coun<g ref="char:EOLhyphen"/>ty, for at <hi>Maunsford</hi> they plundered one <hi>Francis Gardland,</hi> and took from him a dozen of boots, and ten dozen of shoes, toge<g ref="char:EOLhyphen"/>ther with all his leather and tools, and at <hi>Woodborough</hi> in the same County, <hi>Christopher Foster, William Pickard,</hi> and others have been used extremely, and all taken from them, and that M. <hi>Hewes</hi> the Minister of <hi>Kneesall</hi> in the same County had all his goods taken from him, and not so much as a gown left his wife to put on, and forced her to run a mile for her safety, her maid servant together with another maid were ravished, and a woman half gone with child villanously abused, that it is thought impossible she should live, and another woman in that town slain outright.</p>
+            <p>M. <hi>Laves</hi> son, one of the Atturneys of the Court of Requests was with two other Gentlemen this day brought before the Parliament guarded with about sixty Musketiers, for speaking words of dangerous consequence against his Excellency Lord Generall of the Parliaments Army, for which the said M. <hi>Lave</hi> after some examination touching the same was committed to safe custody, till he should be proceeded against according to Law.</p>
+            <p>From <hi>Manchester</hi> they write that Colonell <hi>Aston</hi> with about two thousand horse and foot marched from thence to <hi>Wiggen,</hi> where the Earl of <hi>Derby</hi> with 900 Musketiers and som Troups of horse was again refortifying of that town, but upon the Colonels approach they all fled from thence to <hi>Latham,</hi> the Colonell having re-obtained that town, demolished all the works and fortifications, and burnt the new gates and posts that were set up, and took an oath of the townsmen never to beate arms again against the King and Parliament: from thence he pursued the Earl to <hi>Latham,</hi> who left that house, and fled to
+<pb facs="tcp:155903:5"/>
+               <hi>Preston,</hi> whither the Colonell pursued him, and in his way thi<g ref="char:EOLhyphen"/>ther took a house of the Earls called <hi>Knowsley,</hi> whither the Earl sent him a Message, that he would give him 300. pound if he would not burn his house: the Colonell returned answer, that he came not to burn houses, but to reduce him to peace and o<g ref="char:EOLhyphen"/>bedience, and from thence marched to <hi>Leverpoole,</hi> but before he came thither the Earl was fled, and was reported to be gone in<g ref="char:EOLhyphen"/>to <hi>Yorkshire</hi> to the Queen with two Troups of horse.</p>
+            <p>From the West parts of <hi>England</hi> it is again informed, that at the late defeat given to the Cornish Malignants on <hi>Swarton</hi> Downe neer <hi>Okehampton,</hi> a great delivery of the Parliaments Forces from their enemies was in two respects very observa<g ref="char:EOLhyphen"/>ble: the first whereof was that Serjeant-Major <hi>Chudleighs</hi> men had gotten <hi>Hoptons</hi> word, and by that means with the more fa<g ref="char:EOLhyphen"/>cility slew many of his men, and that some of the Cornish men had also gotten Serjeant Major <hi>Chudleighs</hi> word, which bred such distraction amongst them, that the Hoptonians thinking they had some of their enemies among them, fell upon them, and killed many of their own men. The second passage was, that during the rout and flight of the Cornubians an extraor<g ref="char:EOLhyphen"/>dinary storme of lightning and thunder fell upon them, which lightning singed and burnt the haire of their heads, and fired the gunpowder in their musket pans and bandeliers, which so lamentably scorched and burnt many of their bodies, that they sent for 12 Chyrurgions from <hi>Launceston</hi> to cure them, and which is more remarkable, in their scorching they said, that the <hi>Militia</hi> fought not against them, but the Divell: so that living without God in the world, as the Scripture saith, they had not God in all their thoughts, to acknowledge his just judgment therein, but ascribed their sufferings to their directer the Di<g ref="char:EOLhyphen"/>vell, whose wayes and suggestions they follow.</p>
+         </div>
+         <trailer>FINIS</trailer>
+      </body>
+   </text>
+</TEI>
